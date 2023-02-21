@@ -19,7 +19,7 @@
 
 
 - 😄 Pronouns: he/him
-- 🌱 MS in Bio AI&RA in cybersecurity at Hanyang University, S.Korea.
+- 🌱 MS in Bio AI&RA in the AI·Cybersecurity Lab at Hanyang University, S.Korea.
 - 📝 Conducting research into cybercrimes on social media
 - 👀 Looking for PhD positions
 - 🏋️ Working out
