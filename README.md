@@ -68,6 +68,4 @@
   <img alt="Korean" src="https://img.shields.io/badge/Korean-Intermediate-yellow"/>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnhZhang1994&show_icons=true&theme=radical" /></h2>
+
