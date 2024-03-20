@@ -17,11 +17,12 @@
 
 
 - 😄 Pronouns: he/him
-- 🌱 MS in Bio AI&RA in the AI·Cybersecurity Lab at Hanyang University, S.Korea. BS in Software Science at Dankook University, S.Korea
-- 📝 Research Interest: Data-driven Social Media Analysis, Computational Social Science, Applied AI for Security
+- 🌱 Research Assistant at Hanyang University -> DSSGx Fellow at the University of Warwick -> Machine Learning Engineer at Globit Co., LTD
+- 🏫 MS in Bio AI at Hanyang University, BS in Software Science at Dankook University
+- 📝 Research Interest: Online Safety, Computational Social Science, and Social Media Analysis
 - 👀 Looking for a PhD position 
-- 🏋️ Working out
-- ⛰️ Go hiking
+- 🏋️ Gym Rat
+- ⛰️ Hiking Addict
 
 
 
